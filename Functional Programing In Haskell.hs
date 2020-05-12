@@ -8,7 +8,7 @@ data Users = Users { name :: String
                     ,contact :: Int
                   } deriving (Show, Eq, Read)
 
-user1 = Users{name = "Mithlesh", uname = "Mike", pass = "Mikeee", address = "Dighi", contact = 7276736058}
+user1 = Users{name = "Mithlesh", uname = "Mike", pass = "Mikeee", address = "Dighi", contact = 7276713058}
 user2 = Users{name = "Binodi ", uname = "Bin", pass = "Bin123", address = "Pune", contact = 9987654601}
 user3 = Users{name = "Ramlal ", uname = "Ram", pass = "Ram123", address = "PCMC", contact = 8394284563}
 user4 = Users{name = "Shayam ", uname = "Shy", pass = "Shy123", address = "Dighi", contact = 9029545760}
